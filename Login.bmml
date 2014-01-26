@@ -1,0 +1,71 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1072" measuredH="600" mockupW="941" mockupH="580">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TitleWindow" x="131" y="20" w="941" h="580" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CareerShaperNetworks.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="131" y="44" w="941" h="87" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>7775663</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="853" y="78" w="-1" h="-1" measuredW="96" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>4555150</borderColor>
+        <color>16777215</color>
+        <hrefs>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml%2CSignup%26bm%3BSignup.bmml%26bm%3BSignup.bmml%26bm%3BSignup.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22722%2C60%2C756%2C73%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22774%2C60%2C818%2C73%22%20href%3D%22Signup.bmml%22%20alt%3D%22Signup%22%20id%3D%223%22/%3E</map>
+        <text>Home%2CSignUp</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="155" y="54" w="243" h="66" measuredW="1024" measuredH="290" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./sdfdf.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="305" y="195" w="576" h="300" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="500" y="297" w="187" h="-1" measuredW="79" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="500" y="359" w="187" h="-1" measuredW="79" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Tooltip" x="690" y="305" w="-1" h="-1" measuredW="253" measuredH="33" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username%20Should%2012%20Letters%20Long</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Tooltip" x="687" y="385" w="-1" h="-1" measuredW="277" measuredH="33" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%20Should%20be%208%20Character%20Long</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="622" y="410" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="500" y="276" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>UserName</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="500" y="335" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Title" x="531" y="145" w="-1" h="-1" measuredW="125" measuredH="43" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LOGIN</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

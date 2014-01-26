@@ -1,0 +1,103 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1094" measuredH="597" mockupW="941" mockupH="580">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="153" y="17" w="941" h="580" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CareerShaperNetworks.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="153" y="41" w="941" h="87" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>7775663</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="964" y="75" w="-1" h="-1" measuredW="84" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>4555150</borderColor>
+        <color>16777215</color>
+        <hrefs>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml%2CLogin%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22811%2C60%2C845%2C73%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22863%2C60%2C895%2C73%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%222%22/%3E</map>
+        <text>Home%2CLogin</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="177" y="51" w="243" h="66" measuredW="1024" measuredH="290" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./sdfdf.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="327" y="192" w="576" h="300" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="530" y="228" w="187" h="-1" measuredW="79" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="530" y="290" w="187" h="-1" measuredW="79" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="647" y="450" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20Up</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="530" y="207" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="530" y="269" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20ID</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="553" y="142" w="-1" h="-1" measuredW="163" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SIGN%20UP</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="530" y="354" w="187" h="-1" measuredW="79" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="530" y="416" w="187" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="530" y="333" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="530" y="392" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Confirm%20Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="471" y="453" w="-1" h="-1" measuredW="121" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Already%20Registered%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Link" x="592" y="455" w="-1" h="-1" measuredW="32" measuredH="19" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22439%2C438%2C471%2C457%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%2218%22/%3E</map>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Tooltip" x="724" y="294" w="-1" h="-1" measuredW="140" measuredH="45" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Format%3A%20abcd@xyz.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Tooltip" x="597" y="479" w="251" h="60" measuredW="261" measuredH="60" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20are%20already%20registered%20Click%20Here</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

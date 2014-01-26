@@ -1,0 +1,92 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1094" measuredH="597" mockupW="941" mockupH="580">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="153" y="17" w="941" h="580" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CareerShaperNetworks.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="153" y="41" w="941" h="87" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>7775663</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="933" y="75" w="-1" h="-1" measuredW="94" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>4555150</borderColor>
+        <color>16777215</color>
+        <hrefs>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml%2CSignup%26bm%3BSignup.bmml%26bm%3BSignup.bmml%26bm%3BSignup.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22780%2C60%2C812%2C73%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22830%2C60%2C874%2C73%22%20href%3D%22Signup.bmml%22%20alt%3D%22Signup%22%20id%3D%222%22/%3E</map>
+        <text>Login%2CSignUp</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="177" y="51" w="243" h="66" measuredW="1024" measuredH="290" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./sdfdf.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="267" y="255" w="193" h="63" measuredW="185" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>becomementor%26bm%3Bbecomementor.bmml%26bm%3Bbecomementor.bmml%26bm%3Bbecomementor.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22114%2C238%2C307%2C301%22%20href%3D%22becomementor.bmml%22%20alt%3D%22becomementor%22%20id%3D%224%22/%3E</map>
+        <size>20</size>
+        <text>Become%20A%20Mentor</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="513" y="255" w="176" h="63" measuredW="158" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>meetmentor%26bm%3Bmeetmentor.bmml%26bm%3Bmeetmentor.bmml%26bm%3Bmeetmentor.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22360%2C238%2C536%2C301%22%20href%3D%22meetmentor.bmml%22%20alt%3D%22meetmentor%22%20id%3D%225%22/%3E</map>
+        <size>20</size>
+        <text>Meet%20A%20Mentor</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="759" y="255" w="185" h="63" measuredW="180" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>cvdesigned%26bm%3Bcvdesigned.bmml%26bm%3Bcvdesigned.bmml%26bm%3Bcvdesigned.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22606%2C238%2C791%2C301%22%20href%3D%22cvdesigned.bmml%22%20alt%3D%22cvdesigned%22%20id%3D%226%22/%3E</map>
+        <size>20</size>
+        <text>Knowledge%20Portal</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="242" y="147" w="-1" h="-1" measuredW="774" measuredH="43" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Connecting%20Right%20TALENT%20To%20A%20Right%20JOB</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="186" y="400" w="243" h="149" measuredW="1210" measuredH="920" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/Literacy_Map_Pakistan.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="462" y="397" w="297" h="155" measuredW="1600" measuredH="925" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/Literacy+Rate+Pak+%281951+-+2008%29.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="776" y="397" w="268" h="155" measuredW="741" measuredH="492" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Downloads/Higher%2520Education%2520Pakistan.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="257" y="379" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Literacy%20Rate%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="563" y="379" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Unemployement%20Rate</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="871" y="373" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fast%20Facts</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

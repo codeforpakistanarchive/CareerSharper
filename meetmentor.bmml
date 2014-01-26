@@ -1,0 +1,169 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1094" measuredH="597" mockupW="941" mockupH="580">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="153" y="17" w="941" h="580" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CareerShaperNetworks.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="153" y="41" w="941" h="87" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>7775663</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="964" y="75" w="-1" h="-1" measuredW="93" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>4555150</borderColor>
+        <color>16777215</color>
+        <hrefs>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml%2CLogin%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22811%2C60%2C845%2C73%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22863%2C60%2C904%2C73%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%222%22/%3E</map>
+        <text>Home%2CLogout</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="177" y="51" w="243" h="66" measuredW="1024" measuredH="290" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./sdfdf.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="177" y="138" w="141" h="-1" measuredW="87" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Meet%20a%20Mentor</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::PointyButton" x="980" y="542" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Verify%26bm%3BVerify.bmml%26bm%3BVerify.bmml%26bm%3BVerify.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22827%2C525%2C888%2C552%22%20href%3D%22Verify.bmml%22%20alt%3D%22Verify%22%20id%3D%2227%22/%3E</map>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="177" y="174" w="867" h="361" measuredW="200" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="307" y="216" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="357" y="213" w="184" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="307" y="248" w="-1" h="-1" measuredW="76" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Father%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextInput" x="392" y="245" w="184" h="-1" measuredW="79" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="307" y="280" w="-1" h="-1" measuredW="24" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Age</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextInput" x="342" y="277" w="184" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="307" y="312" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DOB</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::TextInput" x="357" y="309" w="184" h="-1" measuredW="79" measuredH="26" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="307" y="343" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Department</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="340" w="184" h="-1" measuredW="79" measuredH="26" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="307" y="378" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20ID</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::TextInput" x="366" y="375" w="184" h="-1" measuredW="79" measuredH="26" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="307" y="410" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gender</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TextInput" x="357" y="439" w="184" h="-1" measuredW="79" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="307" y="473" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contact%20No.</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="470" w="184" h="-1" measuredW="79" measuredH="26" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::RadioButton" x="376" y="409" w="-1" h="-1" measuredW="44" measuredH="22" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Male</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::RadioButton" x="436" y="409" w="-1" h="-1" measuredW="59" measuredH="22" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Female</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="307" y="442" w="-1" h="-1" measuredW="31" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Skills</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Map" x="772" y="216" w="-1" h="-1" measuredW="252" measuredH="222" zOrder="26" locked="false" isInGroup="-1"/>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="772" y="195" w="-1" h="-1" measuredW="105" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tag%20your%20Location</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Link" x="925" y="147" w="-1" h="-1" measuredW="116" measuredH="19" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Questionnaire%26bm%3BQuestionnaire.bmml%26bm%3BQuestionnaire.bmml%26bm%3BQuestionnaire.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22772%2C130%2C888%2C149%22%20href%3D%22Questionnaire.bmml%22%20alt%3D%22Questionnaire%22%20id%3D%2254%22/%3E</map>
+        <text>Improve%20Your%20Skillls</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Link" x="824" y="147" w="-1" h="-1" measuredW="95" measuredH="19" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>cvdesigner%26bm%3Bcvdesigner.bmml%26bm%3Bcvdesigner.bmml%26bm%3Bcvdesigner.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C130%2C766%2C149%22%20href%3D%22cvdesigner.bmml%22%20alt%3D%22cvdesigner%22%20id%3D%2255%22/%3E</map>
+        <text>Design%20Your%20CV</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Link" x="919" y="501" w="-1" h="-1" measuredW="100" measuredH="19" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Mentorlist%26bm%3BMentorlist.bmml%26bm%3BMentorlist.bmml%26bm%3BMentorlist.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22766%2C484%2C866%2C503%22%20href%3D%22Mentorlist.bmml%22%20alt%3D%22Mentorlist%22%20id%3D%2256%22/%3E</map>
+        <text>Find%20your%20mentor.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
